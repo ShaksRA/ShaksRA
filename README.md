@@ -7,11 +7,11 @@
 
 - 💬 Ask me about **React , Javascript**
 
-- 📫 How to reach me **abhishekgurjarofcl@gmail.com**
+- 📫 How to reach me **agarwal.rohan221102@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abhishekgurjar-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekgurjar-in" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rohanagarwal2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekgurjar-in" height="30" width="40" /></a>
 <a href="https://instagram.com/abhishekgurjar.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishekgurjar.in" height="30" width="40" /></a>
 </p>
 
